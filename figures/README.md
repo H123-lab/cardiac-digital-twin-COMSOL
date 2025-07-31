@@ -34,6 +34,6 @@ Mesh refinement means increasing the detail of the 3D model in important regions
 ### 🚀 Scientific Relevance
 - First UAE-based cardiac twin using mesh refinement for space cardiology.
 - Useful for astronaut screening, medical forecasting, and UAE clinical telemedicine.
-- Aligns with MBRSC Priority Area 3: Human Spaceflight Tech.
+- Aligns with MBRSC Priority Area 3: Human Spaceflight Tech..
 
 
