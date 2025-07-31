@@ -1,5 +1,7 @@
 ## 🧠 Mesh Refinement in a Cardiovascular Digital Twin for Spaceflight Simulation
 
+![Mesh Refinement Simulation](./Untitled%20picture.png)
+
 **Figure Title:** Adaptive Mesh Refinement for High-Strain Cardiac Zones Under Variable Gravity Conditions
 
 ### 🎨 Color Interpretation
