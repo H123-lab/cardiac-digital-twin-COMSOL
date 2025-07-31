@@ -11,10 +11,10 @@ Each color in the simulation image represents the predicted wall stress or strai
 - 🟢 **Green**: Normal strain
 - 🔵 **Blue**: Low-strain, possibly atrophic zones (e.g., under microgravity)
 
-### 🧩 What Is Mesh Refinement?
+### What Is Mesh Refinement?
 Mesh refinement means increasing the detail of the 3D model in important regions (like a zoomed-in grid) to make simulations more accurate.
 
-### ⚙Technical Overview
+### Technical Overview
 - **Software**: COMSOL Multiphysics® v6.1
 - **Meshing**: Adaptive tetrahedral (2nd-order)
 - **Refined Zones**:
