@@ -19,9 +19,8 @@ This graph demonstrates the progressive decline in preload (expressed as percent
 
 ---
 
-## 📉 Panel B: Baroreflex Gain Resetting Over Time
-
-[Baroreflex_Graph](./baroreflex_graph.png)
+**Figure Panel B.** Simulated Baroreflex Gain (% change) over a 15-month mission duration. The model reflects a two-phase adaptation: an early autonomic *resetting phase* (~2–3 months) followed by a delayed sensitivity *reduction phase* beginning after 9 months. This pattern is consistent with observed spaceflight-induced baroreflex remodeling in ISS and bedrest analog studies.
+![Baroreflex Gain](./figures/baroreflex_gain.png)
 
 **Figure Description:**
 This figure shows a time-resolved curve of **baroreflex gain adaptation** during prolonged spaceflight. The simulation models autonomic regulation in microgravity, featuring:
