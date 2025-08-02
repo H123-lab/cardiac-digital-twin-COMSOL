@@ -34,3 +34,33 @@ This figure shows a time-resolved curve of **baroreflex gain adaptation** during
 - Supports incorporation of **autonomic dynamics into cardiac digital twin behavior**.
 - Critical for long-duration mission risk modeling and algorithm tuning.
 
+---
+
+### 📊 Panel C – Overlay of Stroke Volume (SV) and Heart Rate Variability (HRV) vs. Mission Duration
+
+![Panel C – SV & HRV Overlay](./figures/panel_c_sv_hrv.png)
+
+This panel illustrates two core cardiovascular metrics simulated across a 12-month mission profile under different gravitational environments:
+
+- 🔵 **Stroke Volume (SV, 0G Microgravity)**: Steep decline of ~35% by month 12, stabilizing after 6 months.
+- 🟠 **Stroke Volume (SV, 0.38G Mars Gravity)**: ~20% decline by month 12, showing partial cardioprotection.
+- 🟢 **Heart Rate Variability (HRV, 0G)**: Drops from >50 ms to ~30 ms at month 12, indicating vagal tone disruption.
+- 🔴 **Heart Rate Variability (HRV, 0.38G)**: Slower decline, plateauing around ~38 ms, suggesting improved autonomic resilience.
+
+**Simulation Context**  
+- **Software**: COMSOL Multiphysics v6.1 (FSI module + transient solver)  
+- **Key Inputs**: Preload shifts, baroreflex reset, autonomic feedback loops  
+- **Validated Against**:  
+  - ISS astronaut datasets  
+  - ESA/DLR bedrest trials  
+  - NASA partial gravity analog studies  
+
+**Physiological Significance**  
+- SV and HRV changes reflect space-induced deconditioning and adaptation.  
+- HRV is especially sensitive to long-term autonomic disruption.  
+- Mars-level gravity offers partial mitigation but not full protection.
+
+**Spaceflight Health Relevance**  
+- Enables early deconditioning alerts.  
+- Informs countermeasure design.  
+- Supports planning for partial gravity habitats (e.g., Mars base).
