@@ -1,13 +1,13 @@
 # cardiac-digital-twin-COMSOL
 COMSOL-based FEM simulation of cardiac adaptation across gravity (0G–1G) using FSI, strain metrics &amp; automated Python analysis.
 ![Preload Decline](./preload_decline_microgravity.png)
-## 📉 Panel A: Preload Decline Under Simulated Spaceflight Conditions
+## Panel A: Preload Decline Under Simulated Spaceflight Conditions
 
 **Figure Title:** Preload (%) vs. Time Under Microgravity (0G) and Martian Gravity (0.38G)
 
 ![Preload Decline](./2cb2e05f-4c1b-47bc-8b58-15d10845a186.png)
 
-### 📊 Interpretation
+### Interpretation
 
 This graph demonstrates the progressive decline in preload (expressed as percentage reduction from baseline) during 15 months of simulated exposure to spaceflight gravitational conditions.
 
@@ -36,9 +36,9 @@ This figure shows a time-resolved curve of **baroreflex gain adaptation** during
 
 ---
 
-### 📊 Panel C – Overlay of Stroke Volume (SV) and Heart Rate Variability (HRV) vs. Mission Duration
+### Panel C – Overlay of Stroke Volume (SV) and Heart Rate Variability (HRV) vs. Mission Duration
 
-### 🔍 Simulation Results
+### Simulation Results
 
 **Figure: stroke_volume_hrv_mission_duration.png**
 
