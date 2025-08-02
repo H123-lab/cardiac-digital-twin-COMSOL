@@ -46,16 +46,17 @@ This figure shows a time-resolved curve of **baroreflex gain adaptation** during
 
 This panel illustrates two core cardiovascular metrics simulated across a 12-month mission profile under different gravitational environments:
 
-- 🔵 **Stroke Volume (SV, 0G Microgravity)**: Steep decline of ~35% by month 12, stabilizing after 6 months.
-- 🟠 **Stroke Volume (SV, 0.38G Mars Gravity)**: ~20% decline by month 12, showing partial cardioprotection.
-- 🟢 **Heart Rate Variability (HRV, 0G)**: Drops from >50 ms to ~30 ms at month 12, indicating vagal tone disruption.
-- 🔴 **Heart Rate Variability (HRV, 0.38G)**: Slower decline, plateauing around ~38 ms, suggesting improved autonomic resilience.
-
 ---
 
 ![Panel C – SV + HRV](figures/panel_c_sv_hrv.png)
 
 ![Alternate View – SV + HRV](figures/stroke_volume_hrv_mission_duration.png)
+
+- 🔵 **Stroke Volume (SV, 0G Microgravity)**: Steep decline of ~35% by month 12, stabilizing after 6 months.
+- 🟠 **Stroke Volume (SV, 0.38G Mars Gravity)**: ~20% decline by month 12, showing partial cardioprotection.
+- 🟢 **Heart Rate Variability (HRV, 0G)**: Drops from >50 ms to ~30 ms at month 12, indicating vagal tone disruption.
+- 🔴 **Heart Rate Variability (HRV, 0.38G)**: Slower decline, plateauing around ~38 ms, suggesting improved autonomic resilience.
+
 
 **Physiological Interpretation**  
 - **SV** declines reflect reduced preload and progressive cardiac atrophy. Mars’ partial gravity (~0.38G) slows but does not eliminate this maladaptive trajectory.  
