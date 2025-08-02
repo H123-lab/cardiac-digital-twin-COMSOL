@@ -38,6 +38,10 @@ This figure shows a time-resolved curve of **baroreflex gain adaptation** during
 
 ### 📊 Panel C – Overlay of Stroke Volume (SV) and Heart Rate Variability (HRV) vs. Mission Duration
 
+### 🔍 Simulation Results
+
+**Figure: stroke_volume_hrv_mission_duration.png**
+
 ![Panel C – Stroke Volume and HRV](./stroke_volume_hrv_mission_duration.png)
 
 This panel illustrates two core cardiovascular metrics simulated across a 12-month mission profile under different gravitational environments:
@@ -47,20 +51,26 @@ This panel illustrates two core cardiovascular metrics simulated across a 12-mon
 - 🟢 **Heart Rate Variability (HRV, 0G)**: Drops from >50 ms to ~30 ms at month 12, indicating vagal tone disruption.
 - 🔴 **Heart Rate Variability (HRV, 0.38G)**: Slower decline, plateauing around ~38 ms, suggesting improved autonomic resilience.
 
-**Simulation Context**  
-- **Software**: COMSOL Multiphysics v6.1 (FSI module + transient solver)  
-- **Key Inputs**: Preload shifts, baroreflex reset, autonomic feedback loops  
-- **Validated Against**:  
-  - ISS astronaut datasets  
-  - ESA/DLR bedrest trials  
-  - NASA partial gravity analog studies  
+---
 
-**Physiological Significance**  
-- SV and HRV changes reflect space-induced deconditioning and adaptation.  
-- HRV is especially sensitive to long-term autonomic disruption.  
-- Mars-level gravity offers partial mitigation but not full protection.
+**Figure: panel_c_sv_hrv.png**
 
-**Spaceflight Health Relevance**  
-- Enables early deconditioning alerts.  
-- Informs countermeasure design.  
-- Supports planning for partial gravity habitats (e.g., Mars base).
+![Panel C – Alternate View](./panel_c_sv_hrv.png)
+
+**Physiological Interpretation**  
+- **SV** declines reflect reduced preload and progressive cardiac atrophy. Mars’ partial gravity (~0.38G) slows but does not eliminate this maladaptive trajectory.  
+- **HRV** serves as a sensitive biomarker of autonomic regulation. Sustained reductions reflect impaired vagal tone and baroreceptor adaptation under microgravity.
+
+**Simulation Details**  
+- Software: COMSOL Multiphysics v6.1 (FSI + Transient Solver)  
+- Parameters: Preload, Baroreflex sensitivity, Autonomic feedback  
+- Validation:
+
+  - NASA astronaut MRI & telemetry datasets  
+  - ESA/DLR head-down tilt analogs  
+  - NASA partial gravity simulation campaigns
+
+**Relevance for Spaceflight Medicine**  
+- Provides early-warning metrics for deconditioning  
+- Supports personalized countermeasures (e.g., fluid loading, LBNP)  
+- Shows benefits of Mars-like partial gravity over full microgravity
