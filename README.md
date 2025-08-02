@@ -21,7 +21,7 @@ This graph demonstrates the progressive decline in preload (expressed as percent
 
 ## 📉 Panel B: Baroreflex Gain Resetting Over Time
 
-[Baroreflex Gain](./2cb2e05f-4c1b-47bc-8b58-15d10845a186.png)
+[Baroreflex Gain](./baroreflex_gain_simulation.png)
 
 **Figure Description:**
 This figure shows a time-resolved curve of **baroreflex gain adaptation** during prolonged spaceflight. The simulation models autonomic regulation in microgravity, featuring:
