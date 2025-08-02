@@ -11,7 +11,7 @@ COMSOL-based FEM simulation of cardiac adaptation across gravity (0G–1G) using
 
 This graph demonstrates the progressive decline in preload (expressed as percentage reduction from baseline) during 15 months of simulated exposure to spaceflight gravitational conditions.
 
-- **Red Line (0G)**: Shows rapid initial preload decline, stabilizing near ~40% by month 12. This aligns with known fluid redistribution and cardiovascular deconditioning during extended microgravity.
+- **Orange Line (0G)**: Shows rapid initial preload decline, stabilizing near ~40% by month 12. This aligns with known fluid redistribution and cardiovascular deconditioning during extended microgravity.
 - **Blue Line (0.38G)**: Indicates more gradual reduction, plateauing around ~25%. Suggests Martian gravity provides partial physiological mitigation of cardiac unloading.
 - These results were generated using time-resolved COMSOL simulations and validated against bedrest analog and ISS fluid shift data.
 
