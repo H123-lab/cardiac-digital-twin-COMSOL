@@ -75,3 +75,31 @@ This panel illustrates two core cardiovascular metrics simulated across a 12-mon
 - Provides early-warning metrics for deconditioning  
 - Supports personalized countermeasures (e.g., fluid loading, LBNP).  
 - Shows benefits of Mars-like partial gravity over full microgravity.
+
+## Panel D – Autonomic Feedback Loop under Microgravity
+
+![Panel D – Autonomic Feedback Loop](figures/panel_d_autonomic_loop.png)
+
+### Diagram Overview
+This schematic illustrates the cardiovascular autonomic regulation loop and its modifications under microgravity conditions. The loop highlights key feedback mechanisms controlling heart rate, vascular tone, and blood pressure.
+
+### Color Codes & Pathways
+- 🔵 **Blue Arrows (Normal Gravity, 1G):** Baseline parasympathetic and sympathetic pathways maintaining homeostasis.
+- 🟠 **Orange Arrows (Microgravity, 0G):** Attenuated baroreceptor sensitivity, showing reduced input to the medullary centers.
+- 🟢 **Green Arrows (Partial Gravity, 0.38G – Mars):** Intermediate adaptation with partial recovery of vascular tone and cardiac control.
+- 🔴 **Red Blocks:** Dysfunction nodes (e.g., blunted vagal tone, impaired sympathetic responsiveness).
+
+### Simulation Context
+- Modeled using COMSOL FSI framework with integrated control algorithms for baroreflex and autonomic tone.
+- Inputs derived from NASA head-down tilt studies, ISS astronaut telemetry, and cardiovascular physiology benchmarks.
+
+### Physiological Insight
+- **Reduced Feedback Gain:** In microgravity, the sensitivity of baroreceptors to blood pressure changes declines by ~40%, leading to diminished heart rate variability (HRV).
+- **Vascular Tone Instability:** The sympathetic output to peripheral vessels is blunted, predisposing to orthostatic intolerance during re-entry.
+- **Partial Gravity Recovery:** Mars-level gravity (0.38G) allows partial normalization of these loops, but still below Earth standards.
+
+### Importance for Spaceflight Health
+- Provides insight into autonomic dysfunction risk during and after missions.
+- Supports the design of countermeasures (e.g., lower-body negative pressure, artificial gravity).
+- Essential for personalized astronaut digital twins, enabling prediction of autonomic resilience or vulnerability.
+
