@@ -38,7 +38,7 @@ This figure shows a time-resolved curve of **baroreflex gain adaptation** during
 
 ### 📊 Panel C – Overlay of Stroke Volume (SV) and Heart Rate Variability (HRV) vs. Mission Duration
 
-![Panel C – SV & HRV Overlay](./figures/panel_c_sv_hrv.png)
+![Panel C – Stroke Volume and HRV](./stroke_volume_hrv_mission_duration.png)
 
 This panel illustrates two core cardiovascular metrics simulated across a 12-month mission profile under different gravitational environments:
 
