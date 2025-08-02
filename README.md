@@ -53,9 +53,9 @@ This panel illustrates two core cardiovascular metrics simulated across a 12-mon
 
 ---
 
-**Figure: panel_c_sv_hrv.png**
+![Panel C – SV + HRV](figures/panel_c_sv_hrv.png)
 
-![Panel C – Alternate View](./panel_c_sv_hrv.png)
+![Alternate View – SV + HRV](figures/stroke_volume_hrv_mission_duration.png)
 
 **Physiological Interpretation**  
 - **SV** declines reflect reduced preload and progressive cardiac atrophy. Mars’ partial gravity (~0.38G) slows but does not eliminate this maladaptive trajectory.  
