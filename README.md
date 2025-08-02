@@ -68,7 +68,7 @@ This panel illustrates two core cardiovascular metrics simulated across a 12-mon
 
   - NASA astronaut MRI & telemetry datasets  
   - ESA/DLR head-down tilt analogs  
-  - NASA partial gravity simulation campaigns
+  - NASA partial gravity simulation campaigns.
 
 **Relevance for Spaceflight Medicine**  
 - Provides early-warning metrics for deconditioning  
