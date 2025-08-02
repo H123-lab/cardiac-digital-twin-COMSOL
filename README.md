@@ -72,5 +72,5 @@ This panel illustrates two core cardiovascular metrics simulated across a 12-mon
 
 **Relevance for Spaceflight Medicine**  
 - Provides early-warning metrics for deconditioning  
-- Supports personalized countermeasures (e.g., fluid loading, LBNP)  
+- Supports personalized countermeasures (e.g., fluid loading, LBNP).  
 - Shows benefits of Mars-like partial gravity over full microgravity.
